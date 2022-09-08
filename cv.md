@@ -17,4 +17,4 @@ i am 23,Have decided to change my profession from seaman to programmer.Was looki
  ## Languages
  - Ukraine - native speaker
  - Russian - native speaker
- - English - b2
+ - English - b2  
